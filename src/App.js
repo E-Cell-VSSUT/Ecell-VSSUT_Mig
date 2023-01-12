@@ -19,17 +19,17 @@ const App=()=> {
     <Routes>
       <Route path='/' element={
         <>
-        {/* <Home/>
+        <Home/>
         <About/>
         <Wings/>
         <Events/>
         <UpcomingEvents/>
         <Gallery/>
-        <Startup/> */}
+        <Startup/>
         <Testimonial/>
          <Team/>
-        {/* <Contact/>
-        <Footer/>     */}
+        <Contact/>
+        <Footer/>  
         </>
       }></Route>
 
