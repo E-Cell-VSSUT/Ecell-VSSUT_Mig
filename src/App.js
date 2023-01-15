@@ -27,9 +27,9 @@ const App=()=> {
         <Gallery/>
         <Startup/>
         <Testimonial/>
-        <Team/>
+         <Team/>
         <Contact/>
-        <Footer/>   
+        <Footer/>  
         </>
       }></Route>
 
